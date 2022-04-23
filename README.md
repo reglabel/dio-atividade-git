@@ -1,2 +1,2 @@
-# dio-atividade-git
-Desafio de Git/GitHub, Bootcamp Órbi.
+# Atividade de Projeto Git/GitHub
+Repositório criado para conclusão de Desafio de Git/GitHub na DIO.
