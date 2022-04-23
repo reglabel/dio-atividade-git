@@ -1,0 +1,2 @@
+- git clone {url}
+	Comando responsável por clonar um repositório remoto na sua máquina local.
